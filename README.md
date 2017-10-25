@@ -27,7 +27,7 @@
 
 ![Image of cute camel](/images/camel-2.jpg)
 
-col A | col B
+English name | Hebrew name
 -------|--------
 Dromedary camel | גמל חד דבשתי
 Bactrian camel | גמל דו דבשתי
