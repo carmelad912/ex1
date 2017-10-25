@@ -1,5 +1,5 @@
 # About Camels
-[SofctSchools.com](http://www.softschools.com/facts/animals/camel_facts/38/)
+[SoftSchools.com](http://www.softschools.com/facts/animals/camel_facts/38/)
 
 [LiveScience](https://www.livescience.com/27503-camels.html)
 
