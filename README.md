@@ -1,5 +1,6 @@
 # About Camels
-http://www.softschools.com/facts/animals/camel_facts/38/
+[SofctSchools.com](http://www.softschools.com/facts/animals/camel_facts/38/)
+[LiveScience](https://www.livescience.com/27503-camels.html)
 ## Imortant to know
 1. Camels can reach 7 feet (2.1336 meters) in height (at the hump) and weigh up to 1500 pounds.
 2. They are specially adapted to the life in desert. Their eyes have three eyelids and two rows of eyelashes that prevent sand to enter their eyes.
@@ -21,3 +22,9 @@ http://www.softschools.com/facts/animals/camel_facts/38/
 - North Africa
 - the Middle East
 - Central Asia
+
+![Image of cute camel](/images/camel-2.jpg)
+col A | col B
+-------|--------
+Dromedary camel | גמל חד דבשתי
+Bactrian camel | גמל דו דבשתי
